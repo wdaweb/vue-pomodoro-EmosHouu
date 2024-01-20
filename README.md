@@ -44,4 +44,4 @@
 
 ## 作業連結
 
-- [GitHub](https://github.com/EmosHouu/promodoroHomework)
+- [GitHub](https://github.com/EmosHouu/mypomodomo)
